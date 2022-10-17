@@ -1,0 +1,16 @@
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.exe
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.deps.json
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.runtimeconfig.json
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.runtimeconfig.dev.json
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.dll
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\ref\AulaImc.dll
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\bin\Debug\net5.0\AulaImc.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.csproj.AssemblyReference.cache
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.AssemblyInfoInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.AssemblyInfo.cs
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.csproj.CoreCompileInputs.cache
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.dll
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\ref\AulaImc.dll
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.pdb
+C:\Users\alves\OneDrive\Área de Trabalho\AulaImc\obj\Debug\net5.0\AulaImc.genruntimeconfig.cache
